@@ -1,1 +1,2 @@
 Editing from remote.
+Simulating merge conflict.
