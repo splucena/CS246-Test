@@ -1,2 +1,3 @@
 Editing from remote.
 Simulating git merge conflict in local repo
+Simulating merge conflict.
